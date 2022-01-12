@@ -16,6 +16,7 @@ Mobile application that is connected to a Firebase database to control and acces
 ## Model
 
 ![Model](model.png)
+![Model](model2.png)
 
 ***
 
