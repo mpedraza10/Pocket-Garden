@@ -22,12 +22,14 @@ Mobile application that is connected to a Firebase database to control and acces
 ## Home Screen
 
 ![HomeScreen](homeScreen.png)
+![HomeScreen](homeScreen2.png)
 
 ***
 
 ## Door Screen
 
 ![DoorScreen](doorScreen.png)
+![DoorScreen](doorScreen2.png)
 
 ***
 
@@ -40,6 +42,8 @@ Mobile application that is connected to a Firebase database to control and acces
 ## Watering Screen
 
 ![WateringScreen](waterScreen.png)
+![WateringScreen](waterScreen2.png)
+![WateringScreen](waterScreen3.png)
 
 ***
 
