@@ -3,7 +3,7 @@
 ***
 
 ## Description:
-Mobile application that is connected to a Firebase database to control and access data obtained by sensors working with NodeMCU. Featureas include temperature monitoring to turn on fans, humidity of the plant to water it automatically and get a history section in the app, detect rain to close roof, detect if the plant is getting enough UV light to determine wether or not turn on an artificial light, among other things.
+Mobile application that is connected to a Firebase database to control and access data obtained by sensors working with NodeMCU. Featureas include detecting proximity to open the greenhouse door with a history section of the time the door was opened, temperature monitoring to turn on fans, humidity of the plant to water it automatically and get a history section in the app and a section to know if we need to refill the tank, detect rain to close roof, detect if the plant is getting enough UV light to determine wether or not turn on an artificial light, among other things.
 
 ***
 
@@ -15,8 +15,8 @@ Mobile application that is connected to a Firebase database to control and acces
 
 ## Model
 
-![Model](model.png)
-![Model](model2.png)
+![Model](model.jpg)
+![Model](model2.jpg)
 
 ***
 
